@@ -1,0 +1,7 @@
+{
+    "BACKUP_DIRECTORY": "./Backup_folder",
+    "FOLDERS": {},
+    "FILES": {
+        "./file.txt": 0
+    }
+}
